@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
     - name: project1-container
-      image: danahmed/project1:latest
+      image: danahmed/project1:v11
       ports:
         - containerPort: 4200
 
